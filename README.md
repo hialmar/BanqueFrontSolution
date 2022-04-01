@@ -2,7 +2,7 @@
 
 Front de la banque.
 
-On vous conseille de l'ouvrir avec une deuxième fenêtre WebStorm.
+Ici il utilse un back qui est géré par Heroku : un cloud qui permet de déployer gratuitement des applis node (entre autres)
 
 N'oubliez pas de faire un :
 npm install
@@ -22,7 +22,7 @@ L'appli JS résultat se trouvera dans le dossier `dist/` .
 A partir de ce moment là,
 le Back retournera l'appli angular
 en allant à :
-http://localhost:3000/
+https://hialmar-banque-node.herokuapp.com/
 
 ## Further help
 
